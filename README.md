@@ -1,11 +1,11 @@
 # Stego_tool
 # 🕷️ Noir Stego Tool — Digital Forensics Utility
 
-=========================================================
+
 Author      : Radhesh Mutreja  
 Technique   : Caesar Cipher + LSB Steganography  
 GUI         : Tkinter  
-=========================================================
+
 
 ## 📌 Overview
 
